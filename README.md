@@ -3,12 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/oloakeem/NBA-Stats-1996-2019">
-    <img src="images/nba_splash.jpg" alt="Logo" width="200" height="150">
-  </a>
-
   <h3 align="center">NBA-Stats-1996-2019</h3>
-
   <p align="center">
     An analysis on the top nba teams/colleges/players and ranking system.
     <br />
