@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/oloakeem/NBA-Stats-1996-2019">
-    <img src="images/nba_splash.jpeg" alt="Logo" width="200" height="150">
+    <img src="image/nba_splash.jpeg" alt="Logo" width="200" height="150">
   </a>
 
   <h3 align="center">NBA-Stats-1996-2019</h3>
