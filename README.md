@@ -50,6 +50,7 @@ The initial purpose behind this project was to discover the top NBA teams, colle
 Here you can learn about the sources, methods, and plots used in order to complete this analysis.
 ### Collection
 A csv dataset was imported through python via juypter notebook, below will be a link to the source of the dataset.
+Source: https://www.kaggle.com/justinas/nba-players-data
 ### Cleaning
 [![Cleaning SS ONE][c1-screenshot]] [![Cleaning SS ONE][c2-screenshot]]
 
