@@ -1,6 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h3 align="center">NBA-Stats-1996-2019</h3>
@@ -72,8 +69,6 @@ Akeem  olokunakeem88@gmail.com.com
 
 Project Link: https://github.com/oloakeem/NBA-Stats-1996-2019
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
