@@ -75,4 +75,4 @@ Project Link: https://github.com/oloakeem/NBA-Stats-1996-2019
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/akeem-olokun-171b961b2/
-[cleaning1-screenshot]: images/cleaning_1.png
+[cleaning1-screenshot]: NBA-Stats-1996-2019/images/analysis_1.PNG
