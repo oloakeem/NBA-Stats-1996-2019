@@ -46,13 +46,15 @@
 
 <!-- Purpose -->
 ## Purpose
-
+The initial purpose behind this project was to discover the top NBA teams, colleges that produce the best NBA Players and determine whether draft order truly does result in better players.
 <!-- Technical -->
 
 ## Technical
-
+Here you can learn about the sources, methods, and plots used in order to complete this analysis.
 ### Collection
+A csv dataset was imported through python via juypter notebook, below will be a link to the source of the dataset.
 ### Cleaning
+[![Cleaning SS ONE][cleaning1-screenshot]]
 ### Analyzing
 
 <!-- Findings -->
@@ -73,4 +75,4 @@ Project Link: https://github.com/oloakeem/NBA-Stats-1996-2019
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/akeem-olokun-171b961b2/
-[product-screenshot]: images/screenshot.png
+[cleaning1-screenshot]: images/cleaning_1.png
