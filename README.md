@@ -35,7 +35,6 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -63,6 +62,21 @@ Source: https://www.kaggle.com/justinas/nba-players-data
 [![Cleaning SS ONE][v1-screenshot]] [![Cleaning SS ONE][v2-screenshot]]
 [![Cleaning SS ONE][v3-screenshot]]
 ### Interpret Results
+Based off the data found, here are some of the stats found.
+- The prime age for players is between the ages of 21-33.
+- First Draft players tend to play significantly better than 2nd Drafted and unDrafted players.
+- The top colleges that produce the best players are as follows,
+1st Kentucky  
+2nd Duke            
+3rd North Carolina   
+4th UCLA   
+5th Arizona         
+6th Connecticut   
+7th Kansas   
+8th Georgia Tech   
+9th Michigan   
+10th Florida  
+
 <!-- CONTACT -->
 ## Contact
 
